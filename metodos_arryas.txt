@@ -1,0 +1,14 @@
+.filter : nos permite filtrar solo los elementos que deseamos (según ciertos criterios) y devolverlos en un nuevo array.
+.map : crea un nuevo array con los resultados de la llamada a la función indicada aplicados a cada uno de sus elementos.
+.find: devuelve el primer valor que coincide de la colección. Una vez que coincida con el valor en los resultados, no verificará los valores restantes en la colección de matriz.
+
+¿Cual es la diferencia entre find y filter ?
+filter retorna todas las coincidencias y find retorna solo la primer coincidencia
+
+A modo de recopilación:
+
+find() : Devuelve el primer elemento del array que cumpla con la condición dada
+foreach() : Ejecuta lo que le definamos una vez por cada elemento de nuestro array
+some() : Comprueba si al menos un elemento del array cumple con la condición que le damos
+filter() : Devuelve todos los elementos del array que cumplan con la condición dada
+Acá te dejo la documentación de cada uno: find() - foreach() - some() - filter()
