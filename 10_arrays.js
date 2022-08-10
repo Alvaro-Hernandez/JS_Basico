@@ -14,7 +14,7 @@ consola.log(frutas[2]);
 //Para agregar mas elementos a mi arreglo principal => push("elementos");
 var masfrutas = frutas.push("Uvas");
 
-//Para eliminar elementos a mi arreglo principal => pop("elementos");
+//Para eliminar elementos a mi arreglo principal el ultimo => pop("elementos");
 var ultimafruta = frutas.pop("Uvas");
 
 //Para agregar un elemento a mi arreglo pero al inicio del mismo => unshift("elementos");
